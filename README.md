@@ -1,5 +1,5 @@
 # hello-world
-project ideas
+projects
 
 Hey y'all
 Jay-Z is the best rapper of all time.
